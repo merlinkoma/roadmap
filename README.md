@@ -1,3 +1,3 @@
 # roadmap
 
--[ ] linux config
+- [ ] linux config
